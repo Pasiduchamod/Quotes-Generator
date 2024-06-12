@@ -91,4 +91,12 @@ body{
 .quote-box button:nth-child(1):hover{
     scale: 110%;
     transition: .7s;
+    background: transparent;
+}
+.quote-box button:nth-child(1){
+    scale: 110%;
+    transition: .7s;
+    background: transparent;
+    color: #333;
+    font-weight: bold;
 }
